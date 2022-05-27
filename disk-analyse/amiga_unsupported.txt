@@ -12,8 +12,8 @@ Amiga Action Cover Disk 6: Ilyad (Possibly a format by Pierre Adane)
 Unsupported format!
 
 Astro Marine Corps:
-Disk 1 ADOS to tracks 61.1 rest unformatted! protection on track 79.0
-Disk 2 ADOS to tracks 64.1 rest unformatted! protection on track 79.0
+Disk 1 ADOS to tracks 61.1 rest unformatted! protection on track 79.0 (Protection made by Daniel Rodriguez)
+Disk 2 ADOS to tracks 64.1 rest unformatted! protection on track 79.0 (Protection made by Daniel Rodriguez)
 
 APB:
 ADOS + unsupported copylock
@@ -26,7 +26,7 @@ Awesome DEMO Disk:
 Unsupported format!
 
 Carcharadon:
-Unsupported format!
+Unsupported format! (carcharodon multi-sync format)
 
 Cardiaxx:
 Unsupported format!
@@ -53,7 +53,7 @@ Dogs of War:
 ADOS + 10 sector IBM/ATARI MFM, unsupported protection on track 0.1
 
 Elf Mania:
-Unsupported format!
+Unsupported format! (Elfmania longtrack format)
 
 Eliminator: (From various compilations)
 Unsupported format!
@@ -199,10 +199,10 @@ Ultima V:
 ADOS + unsupported Xelock protection on track 0.1
 
 Universe:
-Unsupported format!
+Unsupported format! (Gary Antcliffe track format)
 
 Unreal:
-Unsupported format!
+Unsupported format! (Ordilogic track format)
 
 WARP: (Thalion The First Year)
 Track 0.0 ADOS + IBM MFM 6 sectors + unsupported format, protection (?) on tracks 79.0/79.1, tracks appear long, approx 102500 or 105200
