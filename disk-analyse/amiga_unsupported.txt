@@ -12,10 +12,11 @@ Black Hornet:
 ADOS (track 0.0 may be long) + protection on track 0.1
 
 Carcharadon:
-Unsupported format!
+AmigaDOS track 0.0, Boot tracksync $494d on track 0.1, the rest is tri-sync : $8915,$8945,$4489
+AmigaDOS longtracks from 76.0 to 79.0, track 79.1 use the sync $4489
 
 Crazy Cars III:
-Unsupported Titus protection on track 79.0 of Disk 1
+Titus "Megaprot Amiga" Longtrack $3390 on track 79.0 of Disk 1
 
 Deluxe Strip Poker (AKA Strip Poker II)
 AmigaDOS + Protection on track 80.1
@@ -33,7 +34,7 @@ Lombard RAC Rally:
 ADOS + unsupported Rob Northen protection on track 0.1
 
 Periheliom:
-Unsupported format!
+Custom Format, Longtracks sync $A891, length $3388 + Track 77,78,79 are AmigaDOS Longtrack $3388
 
 Super Heroes Compilation:
 Disks 1 & 3 use an MFM type longtrack!
@@ -41,7 +42,9 @@ Disk 1 has a 10 sector MFM longtrack on 79.0
 Disk 3 has a 10 sector MFM longtrack on 79.0 and a 9 sector MFM longtrack on 79.1
 
 The Blues Brothers: (Hits For Six Volume 2 + Triple Action Volume 4)
-ADOS + IBM 10 sectors + unsupported protection on tracks 79.0/79.1
+Track 00.0 - 09.1 : AmigaDOS, Track 10.0 - 39.1 : Atari ST tracks 10 sectors x 512bytes
+Track 40.0 - 40.1 : AmigaDOS directory, Track 41.0 - 78.1 : Atari ST tracks 10 sectors x 512bytes
+Track 79.0 - 79.1 : Titus "Megaprot 91" - Atari ST protection Track
 
 Turbo Trax: (Budget)
 ADOS + IBM 10 sector + unformatted tracks + unsupported 128 byte MFM tracks on 1.1, 4.1, 5.1, 6.1, 7.1, 8.1
